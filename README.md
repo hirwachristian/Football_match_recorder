@@ -16,7 +16,7 @@ This application allows users to:
 
 ## Project Structure
 
-![Football App](./assets/project-structure.png)
+<img src="assets/project_structure.png" alt="Project Structure" width="600"/>
 
 
 ## Conclusion
