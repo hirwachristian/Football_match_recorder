@@ -16,21 +16,7 @@ This application allows users to:
 
 ## Project Structure
 
-football_match_recorder/
-├── main.py # Main application entry point
-├── models/ # Data structure definitions
-│ ├── team.py # Team and player classes
-│ ├── match.py # Match management classes
-│ └── action.py # Football action types and constants
-├── services/ # Business logic layer
-│ ├── team_service.py # Team management operations
-│ ├── match_service.py # Match handling operations
-│ └── action_service.py # Action recording operations
-├── utils/ # Utility functions
-│ └── helpers.py # Display and formatting utilities
-└── data/ # Data storage directory
-├── teams.json # Teams and players database
-└── matches.json # Match records and actions
+![Football App](./assets/project-structure.png)
 
 
 ## Conclusion
